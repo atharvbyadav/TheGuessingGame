@@ -1,6 +1,6 @@
 # 🎲 Guessing Game
 
-Welcome to the **Guessing Game**, a fun and simple terminal-based game where you test your luck by guessing a random number between 1 and 10. Place your bets, make your guess, and see if you can turn your luck into credit--or lose it all in the thrill of the game!
+Welcome to the **Guessing Game**, a fun and simple terminal-based game where you test your luck by guessing a random number between 1 and 10. Place your bets, make your guess, and see if you can turn your luck into credit or lose it all in the thrill of the game!
 
 ---
 
@@ -27,7 +27,7 @@ Welcome to the **Guessing Game**, a fun and simple terminal-based game where you
   - Special messages when you win a substantial amount, making the game more engaging.
 
 - **Cross-Platform Compatibility**:
-  - Works on both Windows (using `system("cls")` to clear the screen) and Linux/Mac (users can replace with `system("clear")` for clearing the console).
+  - Works on both Windows (using `system("cls")` to clear the screen) and Linux/Mac (using `system("clear")` for clearing the console).
 
 - **Prebuilt `.exe` File**:
   - A compiled `.exe` executable will be provided for those who want to play the game without needing a C compiler or other prerequisites.
@@ -78,7 +78,7 @@ Welcome to the **Guessing Game**, a fun and simple terminal-based game where you
    - The game also congratulates you when you hit significant milestones like having a balance greater than 1000 credits.
 
 5. **Cross-Platform Console Clearing**:
-   - The game uses `system("cls")` to clear the console for Windows users. Linux and Mac users can replace `system("cls")` with `system("clear")` for compatibility.
+   - The game uses `system("cls")` to clear the console for Windows users. For Linux and Mac game uses `system("clear")` instead of `system("cls")` for compatibility.
 
 6. **Prebuilt `.exe` File**:
    - A prebuilt `.exe` executable will be provided for Windows users who don’t want to compile the code themselves. This is a convenient option for quickly testing out the game.
@@ -87,8 +87,8 @@ Welcome to the **Guessing Game**, a fun and simple terminal-based game where you
 
 ## 📂 File Structure
 
-- `guessing_game.c`: The main source code for the game.
-- `guessing_game.exe`: The compiled executable version for Windows users.
+- `TheGuessingGame.c`: The main source code for the game.
+- `TheGuessingGame.exe`: The compiled executable version for Windows users.
 
 ---
 
@@ -105,7 +105,7 @@ Here are some potential enhancements for future updates:
 ## ⚠️ Important Notes
 
 - The `.exe` file provided is functional but may not be 100% perfect. It serves as a quick solution for those who wish to test the game without needing to compile the source code.
-- If you're using Linux or Mac, the game can be compiled using any standard C compiler like `gcc`. Make sure to modify the `system("cls")` command to `system("clear")` for clearing the console.
+- If you're using Linux or Mac, the game can be compiled using any standard C compiler like `gcc`.
 
 ---
 
