@@ -1,6 +1,6 @@
-# 🎲 Guessing Game
+# 🎲 The Guessing Game
 
-Welcome to the **Guessing Game**, a fun and simple terminal-based game where you test your luck by guessing a random number between 1 and 10. Place your bets, make your guess, and see if you can turn your luck into credit or lose it all in the thrill of the game!
+Welcome to **The Guessing Game**, a fun and simple terminal-based game where you test your luck by guessing a random number between 1 and 10. Place your bets, make your guess, and see if you can turn your luck into credit or lose it all in the thrill of the game!
 
 ---
 
