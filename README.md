@@ -131,7 +131,7 @@ Got feedback, ideas, or just want to chat about the project?
 I'd love to hear from you!
 
 * GitHub: [@atharvbyadav](https://github.com/atharvbyadav)
-* Email: [atharvbyadav@gmail.com](mailto:atharvbyadav@gmail.com)
+* Email: [uuwr5t1s@duck.com](mailto:uuwr5t1s@duck.com)
 * Website: [atharvbyadav.github.io](https://atharvbyadav.github.io)
 * LinkedIn: [linkedin.com/in/atharvbyadav](https://www.linkedin.com/in/atharvbyadav)
 
