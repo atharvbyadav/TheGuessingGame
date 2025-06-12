@@ -1,5 +1,14 @@
 # 🎲 The Guessing Game
 
+![Language-C](https://img.shields.io/badge/Language-C-blue?style=flat-square)
+![Game-Type](https://img.shields.io/badge/Type-Terminal%20Game-purple?style=flat-square)
+![Cross-Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-brightgreen?style=flat-square)
+![Play-and-Win](https://img.shields.io/badge/WIN-10x%20your%20Bet-FFD700?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Stable-blueviolet?style=flat-square)
+
+---
+
 Welcome to **The Guessing Game**, a fun and simple terminal-based game where you test your luck by guessing a random number between 1 and 10. Place your bets, make your guess, and see if you can turn your luck into credit or lose it all in the thrill of the game!
 
 ---
@@ -109,9 +118,29 @@ Here are some potential enhancements for future updates:
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contribution
 
-Contributions are always welcome! If you have suggestions for improving the game or want to contribute to the project, feel free to fork the repository, make changes, and submit a pull request.
+Contributions are welcome!
+Whether it's bug fixes, feature ideas, or enhancements — feel free to fork the repo and submit a PR.
+
+---
+
+## 📬 Contact
+
+Got feedback, ideas, or just want to chat about the project?
+I'd love to hear from you!
+
+* GitHub: [@atharvbyadav](https://github.com/atharvbyadav)
+* Email: [atharvbyadav@gmail.com](mailto:atharvbyadav@gmail.com)
+* Website: [atharvbyadav.github.io](https://atharvbyadav.github.io)
+* LinkedIn: [linkedin.com/in/atharvbyadav](https://www.linkedin.com/in/atharvbyadav)
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
+Feel free to use, modify, and share — responsibly!
 
 ---
 
