@@ -132,6 +132,7 @@ I'd love to hear from you!
 
 * GitHub: [@atharvbyadav](https://github.com/atharvbyadav)
 * Email: [uuwr5t1s@duck.com](mailto:uuwr5t1s@duck.com)
+  _Looks suspicious? Good. It’s mine. The ducks work for me. 🦆💻_
 * Website: [atharvbyadav.github.io](https://atharvbyadav.github.io)
 * LinkedIn: [linkedin.com/in/atharvbyadav](https://www.linkedin.com/in/atharvbyadav)
 
