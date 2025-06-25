@@ -9,7 +9,7 @@
 
 ---
 
-Welcome to **The Guessing Game**, a fun and simple terminal-based game where you test your luck by guessing a random number between 1 and 10. Place your bets, make your guess, and see if you can turn your luck into credit or lose it all in the thrill of the game!
+Welcome to **The Guessing Game**, a fun and simple terminal-based game where you test your luck by guessing a random number between 1 and 10. Place your bets, make your guess and see if you can turn your luck into credit or lose it all in the thrill of the game!
 
 ---
 
@@ -121,13 +121,13 @@ Here are some potential enhancements for future updates:
 ## 🤝 Contribution
 
 Contributions are welcome!
-Whether it's bug fixes, feature ideas, or enhancements — feel free to fork the repo and submit a PR.
+Whether it's bug fixes, feature ideas or enhancements — feel free to **fork** the repo and submit a **PR**.
 
 ---
 
 ## 📬 Contact
 
-Got feedback, ideas, or just want to chat about the project?
+Got feedback, ideas or just want to chat about the project?
 I'd love to hear from you!
 
 - **👨‍💻 Author**: Atharv Yadav
@@ -141,7 +141,7 @@ I'd love to hear from you!
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
-Feel free to use, modify, and share — responsibly!
+Feel free to use, modify and share — responsibly!
 
 ---
 
