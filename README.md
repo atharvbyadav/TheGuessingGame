@@ -79,7 +79,7 @@ Welcome to **The Guessing Game**, a fun and simple terminal-based game where you
    - The `getValidGuess()` function ensures players only guess numbers within the allowed range (1-10).
 
 3. **Modular and User-Friendly Design**:
-   - Functions like `displayRules()`, `getValidAmount()`, and `getValidGuess()` help make the game flow smooth and easy to follow.
+   - Functions like `displayRules()`, `getValidAmount()` and `getValidGuess()` help make the game flow smooth and easy to follow.
    - The game logic is modular and readable, making it easier to maintain and update.
 
 4. **Interactive Gameplay**:
